@@ -1,0 +1,8 @@
+Encapsulation: 	The mechanism of hiding of data implementation and accessing it only through the use of public methods.
+
+Inheritance: 	Uses super classes and sub classes. They form a 'is a' relationship in a way that the sub class 'is a' type of super class. 
+		This allows re-use of methods in the super class in the sub class. The 'extends' keyword can be used in code to specify which super class the sub class can 'inherit' methods from.
+
+Polymorphism:	This mechanism allows methods/objects to have many forms. If an object passes more than one 'is a' test, the object is polymorphic.
+
+Abstraction:	Abstraction is a concept or an idea to express the intent of a class instead of the actual implementation. Non-essential information is not displayed to the user as it is not required to perform the function, only interface is known.
